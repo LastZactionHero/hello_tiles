@@ -47,42 +47,22 @@ main.o: \
  /home/zachdicklin/development/butano/butano/include/bn_regular_bg_tiles_item.h \
  /home/zachdicklin/development/butano/butano/include/bn_tile.h \
  /home/zachdicklin/development/butano/butano/include/bn_regular_bg_map_ptr.h \
- /home/zachdicklin/development/butano/butano/include/bn_sprite_text_generator.h \
- /home/zachdicklin/development/butano/butano/include/bn_vector.h \
- /home/zachdicklin/development/butano/butano/include/bn_vector_fwd.h \
- /home/zachdicklin/development/butano/butano/include/bn_sprite_font.h \
- /home/zachdicklin/development/butano/butano/include/bn_sprite_item.h \
- /home/zachdicklin/development/butano/butano/include/bn_sprite_shape_size.h \
- /home/zachdicklin/development/butano/butano/include/bn_sprite_tiles_item.h \
- /home/zachdicklin/development/butano/butano/include/bn_sprite_palette_item.h \
- /home/zachdicklin/development/butano/butano/include/bn_utf8_characters_map_ref.h \
- /home/zachdicklin/development/butano/butano/include/bn_power_of_two.h \
- /home/zachdicklin/development/butano/butano/include/bn_utf8_character.h \
  /home/zachdicklin/development/butano/butano/include/bn_regular_bg_map_cell_info.h \
  /home/zachdicklin/development/butano/butano/include/bn_blending_actions.h \
  /home/zachdicklin/development/butano/butano/include/bn_blending.h \
  /home/zachdicklin/development/butano/butano/include/bn_template_actions.h \
  /home/zachdicklin/development/butano/butano/include/bn_limits.h \
- /home/zachdicklin/development/butano/butano/include/bn_blending_fade_alpha.h \
- /home/zachdicklin/development/butano/butano/include/bn_blending_fade_alpha_hbe_ptr.h \
- /home/zachdicklin/development/butano/butano/include/bn_hbe_ptr.h \
- /home/zachdicklin/development/butano/butano/include/bn_blending_transparency_attributes.h \
- /home/zachdicklin/development/butano/butano/include/bn_blending_transparency_attributes_hbe_ptr.h \
  /home/zachdicklin/development/butano/examples/hello_tiles/../../common/include/common_info.h \
  /home/zachdicklin/development/butano/butano/include/bn_span.h \
  /home/zachdicklin/development/butano/butano/include/bn_vector.h \
+ /home/zachdicklin/development/butano/butano/include/bn_vector_fwd.h \
  /home/zachdicklin/development/butano/butano/include/bn_sprite_ptr.h \
  /home/zachdicklin/development/butano/butano/include/bn_string_view.h \
- /home/zachdicklin/development/butano/examples/hello_tiles/../../common/include/common_variable_8x16_sprite_font.h \
- /home/zachdicklin/development/butano/butano/include/bn_sprite_font.h \
- /home/zachdicklin/development/butano/butano/include/bn_utf8_characters_map.h \
- /home/zachdicklin/development/butano/examples/hello_tiles/build/bn_sprite_items_common_variable_8x16_font.h \
- /home/zachdicklin/development/butano/butano/include/bn_sprite_item.h \
  /home/zachdicklin/development/butano/examples/hello_tiles/build/bn_bg_palette_items_grass_tileset_palette.h \
  /home/zachdicklin/development/butano/butano/include/bn_bg_palette_item.h \
  /home/zachdicklin/development/butano/examples/hello_tiles/build/bn_regular_bg_tiles_items_grass_tileset.h \
  /home/zachdicklin/development/butano/butano/include/bn_regular_bg_tiles_item.h \
- /home/zachdicklin/development/butano/examples/hello_tiles/build/bn_regular_bg_items_territory_map.h
+ /home/zachdicklin/development/butano/examples/hello_tiles/src/./tile_map.h
 /home/zachdicklin/development/butano/butano/include/bn_core.h:
 /home/zachdicklin/development/butano/butano/include/bn_span.h:
 /home/zachdicklin/development/butano/butano/include/bn_array.h:
@@ -130,39 +110,19 @@ main.o: \
 /home/zachdicklin/development/butano/butano/include/bn_regular_bg_tiles_item.h:
 /home/zachdicklin/development/butano/butano/include/bn_tile.h:
 /home/zachdicklin/development/butano/butano/include/bn_regular_bg_map_ptr.h:
-/home/zachdicklin/development/butano/butano/include/bn_sprite_text_generator.h:
-/home/zachdicklin/development/butano/butano/include/bn_vector.h:
-/home/zachdicklin/development/butano/butano/include/bn_vector_fwd.h:
-/home/zachdicklin/development/butano/butano/include/bn_sprite_font.h:
-/home/zachdicklin/development/butano/butano/include/bn_sprite_item.h:
-/home/zachdicklin/development/butano/butano/include/bn_sprite_shape_size.h:
-/home/zachdicklin/development/butano/butano/include/bn_sprite_tiles_item.h:
-/home/zachdicklin/development/butano/butano/include/bn_sprite_palette_item.h:
-/home/zachdicklin/development/butano/butano/include/bn_utf8_characters_map_ref.h:
-/home/zachdicklin/development/butano/butano/include/bn_power_of_two.h:
-/home/zachdicklin/development/butano/butano/include/bn_utf8_character.h:
 /home/zachdicklin/development/butano/butano/include/bn_regular_bg_map_cell_info.h:
 /home/zachdicklin/development/butano/butano/include/bn_blending_actions.h:
 /home/zachdicklin/development/butano/butano/include/bn_blending.h:
 /home/zachdicklin/development/butano/butano/include/bn_template_actions.h:
 /home/zachdicklin/development/butano/butano/include/bn_limits.h:
-/home/zachdicklin/development/butano/butano/include/bn_blending_fade_alpha.h:
-/home/zachdicklin/development/butano/butano/include/bn_blending_fade_alpha_hbe_ptr.h:
-/home/zachdicklin/development/butano/butano/include/bn_hbe_ptr.h:
-/home/zachdicklin/development/butano/butano/include/bn_blending_transparency_attributes.h:
-/home/zachdicklin/development/butano/butano/include/bn_blending_transparency_attributes_hbe_ptr.h:
 /home/zachdicklin/development/butano/examples/hello_tiles/../../common/include/common_info.h:
 /home/zachdicklin/development/butano/butano/include/bn_span.h:
 /home/zachdicklin/development/butano/butano/include/bn_vector.h:
+/home/zachdicklin/development/butano/butano/include/bn_vector_fwd.h:
 /home/zachdicklin/development/butano/butano/include/bn_sprite_ptr.h:
 /home/zachdicklin/development/butano/butano/include/bn_string_view.h:
-/home/zachdicklin/development/butano/examples/hello_tiles/../../common/include/common_variable_8x16_sprite_font.h:
-/home/zachdicklin/development/butano/butano/include/bn_sprite_font.h:
-/home/zachdicklin/development/butano/butano/include/bn_utf8_characters_map.h:
-/home/zachdicklin/development/butano/examples/hello_tiles/build/bn_sprite_items_common_variable_8x16_font.h:
-/home/zachdicklin/development/butano/butano/include/bn_sprite_item.h:
 /home/zachdicklin/development/butano/examples/hello_tiles/build/bn_bg_palette_items_grass_tileset_palette.h:
 /home/zachdicklin/development/butano/butano/include/bn_bg_palette_item.h:
 /home/zachdicklin/development/butano/examples/hello_tiles/build/bn_regular_bg_tiles_items_grass_tileset.h:
 /home/zachdicklin/development/butano/butano/include/bn_regular_bg_tiles_item.h:
-/home/zachdicklin/development/butano/examples/hello_tiles/build/bn_regular_bg_items_territory_map.h:
+/home/zachdicklin/development/butano/examples/hello_tiles/src/./tile_map.h:
