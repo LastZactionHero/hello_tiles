@@ -1,0 +1,1 @@
+territory_marker_red_bn_gfx.o: territory_marker_red_bn_gfx.s
