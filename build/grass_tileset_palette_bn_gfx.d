@@ -1,0 +1,1 @@
+grass_tileset_palette_bn_gfx.o: grass_tileset_palette_bn_gfx.s

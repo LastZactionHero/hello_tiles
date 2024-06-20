@@ -1,6 +1,6 @@
 bn_hw_cstring.o: \
- /Users/zachdicklin/Development/butano/butano/hw/src/bn_hw_cstring.cpp \
- /Users/zachdicklin/Development/butano/butano/include/bn_common.h \
- /Users/zachdicklin/Development/butano/butano/include/../hw/include/bn_hw_common.h
-/Users/zachdicklin/Development/butano/butano/include/bn_common.h:
-/Users/zachdicklin/Development/butano/butano/include/../hw/include/bn_hw_common.h:
+ /home/zachdicklin/development/butano/butano/hw/src/bn_hw_cstring.cpp \
+ /home/zachdicklin/development/butano/butano/include/bn_common.h \
+ /home/zachdicklin/development/butano/butano/include/../hw/include/bn_hw_common.h
+/home/zachdicklin/development/butano/butano/include/bn_common.h:
+/home/zachdicklin/development/butano/butano/include/../hw/include/bn_hw_common.h:
