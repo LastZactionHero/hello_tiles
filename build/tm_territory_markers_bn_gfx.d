@@ -1,1 +1,0 @@
-tm_territory_markers_bn_gfx.o: tm_territory_markers_bn_gfx.s

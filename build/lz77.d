@@ -1,2 +1,2 @@
 lz77.o: \
- /home/zachdicklin/development/butano/butano/hw/3rd_party/cult-of-gba-bios/src/lz77.s
+ /home/zach/dev/butano/butano/hw/3rd_party/cult-of-gba-bios/src/lz77.s

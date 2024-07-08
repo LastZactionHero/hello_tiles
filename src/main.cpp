@@ -15,6 +15,9 @@
 
 #include "common_info.h"
 
+#include "bn_bg_palette_items_neighborhood_palette.h"
+#include "bn_regular_bg_tiles_items_neighborhood_tileset.h"
+
 #include "bn_bg_palette_items_grass_tileset_palette.h"
 #include "bn_regular_bg_tiles_items_grass_tileset.h"
 
@@ -24,8 +27,11 @@
 #define GRID_SIZE_ROWS 32
 #define GRID_CELLS_COUNT GRID_SIZE_COLS *GRID_SIZE_ROWS
 
-#define MAP_ROWS 20
-#define MAP_COLS 30
+// #define MAP_ROWS 20
+// #define MAP_COLS 30
+#define MAP_ROWS 64
+#define MAP_COLS 64
+
 
 #define TILE_UNDEFINED 1000
 
@@ -152,8 +158,8 @@ int main()
 
     bn::unique_ptr<bg_map> bg_map_ptr(new bg_map());
     bn::regular_bg_item bg_item(
-        bn::regular_bg_tiles_items::grass_tileset,
-        bn::bg_palette_items::grass_tileset_palette,
+        bn::regular_bg_tiles_items::neighborhood_tileset,
+        bn::bg_palette_items::neighborhood_palette,
         bg_map_ptr->map_item);
     bn::regular_bg_ptr bg = bg_item.create_bg(0, 0);
     bn::regular_bg_map_ptr bg_map = bg.map();

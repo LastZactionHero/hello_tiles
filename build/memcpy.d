@@ -1,4 +1,3 @@
-memcpy.o: \
- /home/zachdicklin/development/butano/butano/hw/3rd_party/agbabi/src/memcpy.s \
- /home/zachdicklin/development/butano/butano/hw/3rd_party/agbabi/src/macros.inc
-/home/zachdicklin/development/butano/butano/hw/3rd_party/agbabi/src/macros.inc:
+memcpy.o: /home/zach/dev/butano/butano/hw/3rd_party/agbabi/src/memcpy.s \
+ /home/zach/dev/butano/butano/hw/3rd_party/agbabi/src/macros.inc
+/home/zach/dev/butano/butano/hw/3rd_party/agbabi/src/macros.inc:

@@ -1,2 +1,2 @@
 bn_hw_palettes_asm.o: \
- /home/zachdicklin/development/butano/butano/hw/src/bn_hw_palettes_asm.s
+ /home/zach/dev/butano/butano/hw/src/bn_hw_palettes_asm.s
